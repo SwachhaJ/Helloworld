@@ -29,7 +29,7 @@ bin/
 .DS_Store
 
 # Default ignored files
-/ shelf /
+/ shelf/
 / workspace.xml
-/ .idea /
-/ target /
+/ .idea/
+/ target/
